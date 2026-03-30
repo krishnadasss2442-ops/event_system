@@ -73,7 +73,7 @@ $database = "event_system";
 
 Open your browser and go to:
 
-http://localhost/student-event-registration-system
+http://localhost/event_system
 🎥 Project Demo Video
 
 Watch the full working demo here:
@@ -84,7 +84,6 @@ student-event-registration-system/
 │── admin/
 │── user/
 │── config/
-│── assets/
 │── index.php
 │── login.php
 │── register.php
@@ -107,3 +106,4 @@ Admin analytics dashboard
 
 ### 1. Clone the Repository
 ```bash
+https://github.com/krishnadasss2442-ops/event_system
