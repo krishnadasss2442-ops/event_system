@@ -77,7 +77,7 @@ http://localhost/event_system
 🎥 Project Demo Video
 
 Watch the full working demo here:
-👉 https://your-youtube-link-here
+👉https://youtu.be/i5-d2zfK7Zw?si=V4dLuhGqY7sdNpaV
 
 📂 Project Structure
 student-event-registration-system/
